@@ -1,2 +1,2 @@
 git test main 2hfffsdfsd
-readme 츄가
+readme 츄가  readmereadme
